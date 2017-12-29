@@ -20,11 +20,6 @@
 "" Plug setup
 "***********************************************************************"
 
-"" Prerequisites
-" brew tap caskroom/fonts
-" brew cask install font-hack-nerd-font
-" brew install --HEAD universal-ctags/universal-ctags/universal-ctags
-
 "" Vi iMproved
 set nocompatible
 
