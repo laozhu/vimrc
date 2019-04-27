@@ -1,17 +1,16 @@
-vimrc
-=====
+# vimrc [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/256px-Icon-Vim.svg.png" alt="Vim" width="90" height="90" align="right">][Vim]
 
-Simple and beautiful vim configuration for your terminal and server.
+*Simple vim configuration for my terminal and server*
 
-### Screenshot
+## Screenshot
 
 ![Screenshot](./screenshot.png)
 
-### Editorconfig
+## Editorconfig
 
 I use [editorconfig](http://editorconfig.org/) for maintaining consistent coding styles between different editors and IDEs.
 
-### Credits
+## Credits
 
 * [vim-plug](https://github.com/junegunn/vim-plug) - minimalist Vim Plugin Manager
 * [vim-bootstrap](https://github.com/avelino/vim-bootstrap) - .vimrc configuration generator
