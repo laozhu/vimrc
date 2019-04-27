@@ -1,4 +1,4 @@
-# vimrc [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/256px-Icon-Vim.svg.png" alt="Vim" width="90" height="90" align="right">][Vim]
+# vimrc <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/256px-Icon-Vim.svg.png" alt="Vim" width="90" height="90" align="right">
 
 *Simple vim configuration for my terminal and server*
 
